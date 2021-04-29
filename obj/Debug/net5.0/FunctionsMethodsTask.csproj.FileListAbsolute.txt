@@ -1,0 +1,16 @@
+C:\Users\Origin PC\Projects\FunctionsMethodsTask\bin\Debug\net5.0\FunctionsMethodsTask.exe
+C:\Users\Origin PC\Projects\FunctionsMethodsTask\bin\Debug\net5.0\FunctionsMethodsTask.deps.json
+C:\Users\Origin PC\Projects\FunctionsMethodsTask\bin\Debug\net5.0\FunctionsMethodsTask.runtimeconfig.json
+C:\Users\Origin PC\Projects\FunctionsMethodsTask\bin\Debug\net5.0\FunctionsMethodsTask.runtimeconfig.dev.json
+C:\Users\Origin PC\Projects\FunctionsMethodsTask\bin\Debug\net5.0\FunctionsMethodsTask.dll
+C:\Users\Origin PC\Projects\FunctionsMethodsTask\bin\Debug\net5.0\ref\FunctionsMethodsTask.dll
+C:\Users\Origin PC\Projects\FunctionsMethodsTask\bin\Debug\net5.0\FunctionsMethodsTask.pdb
+C:\Users\Origin PC\Projects\FunctionsMethodsTask\obj\Debug\net5.0\FunctionsMethodsTask.csprojAssemblyReference.cache
+C:\Users\Origin PC\Projects\FunctionsMethodsTask\obj\Debug\net5.0\FunctionsMethodsTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Origin PC\Projects\FunctionsMethodsTask\obj\Debug\net5.0\FunctionsMethodsTask.AssemblyInfoInputs.cache
+C:\Users\Origin PC\Projects\FunctionsMethodsTask\obj\Debug\net5.0\FunctionsMethodsTask.AssemblyInfo.cs
+C:\Users\Origin PC\Projects\FunctionsMethodsTask\obj\Debug\net5.0\FunctionsMethodsTask.csproj.CoreCompileInputs.cache
+C:\Users\Origin PC\Projects\FunctionsMethodsTask\obj\Debug\net5.0\FunctionsMethodsTask.dll
+C:\Users\Origin PC\Projects\FunctionsMethodsTask\obj\Debug\net5.0\ref\FunctionsMethodsTask.dll
+C:\Users\Origin PC\Projects\FunctionsMethodsTask\obj\Debug\net5.0\FunctionsMethodsTask.pdb
+C:\Users\Origin PC\Projects\FunctionsMethodsTask\obj\Debug\net5.0\FunctionsMethodsTask.genruntimeconfig.cache
